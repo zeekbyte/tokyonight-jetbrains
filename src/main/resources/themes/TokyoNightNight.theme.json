@@ -1,8 +1,8 @@
 {
-    "name": "TokyoNight Dark",
+    "name": "TokyoNight Night",
     "dark": true,
     "author": "Alexander Adhyatma <alexadhyatma@mailbox.org>",
-    "editorScheme": "/themes/TokyoNightDark.xml",
+    "editorScheme": "/themes/TokyoNightNight.xml",
     "colors": {
         "bgHi": "#161720",
         "bg": "#1a1b26",

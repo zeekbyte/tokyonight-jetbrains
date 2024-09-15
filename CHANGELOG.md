@@ -6,7 +6,11 @@
 
 ### Added
 
-## [0.1.6] 13-09.2024
+## [0.1.7] 15.09.2024
+- Added new themes: `Day` and `Moon`
+- Rename the `Dark` theme to `Night`
+
+## [0.1.6] 13.09.2024
 - Fixed for compatibility with IntelliJ IDEA 2024.2.1
 
 ## [0.1.5] - 15.11.2022
