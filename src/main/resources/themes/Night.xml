@@ -60,7 +60,7 @@
         <option name="SOFT_WRAP_SIGN_COLOR" value="2c2e40"/>
         <option name="TEARLINE_COLOR" value="2c2e40"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="232433"/>
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="232433"/>
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="3d59a1"/>
         <option name="VCS_ANNOTATIONS_COLOR_3" value="232433"/>
         <option name="VCS_ANNOTATIONS_COLOR_4" value="232433"/>
         <option name="VCS_ANNOTATIONS_COLOR_5" value="232433"/>
@@ -408,17 +408,17 @@
         </option>
         <option name="LINE_FULL_COVERAGE">
             <value>
-                <option name="FOREGROUND" value="41a6b5" />
+                <option name="FOREGROUND" value="41a6b5"/>
             </value>
         </option>
         <option name="LINE_NONE_COVERAGE">
             <value>
-                <option name="FOREGROUND" value="c53b53" />
+                <option name="FOREGROUND" value="c53b53"/>
             </value>
         </option>
         <option name="LINE_PARTIAL_COVERAGE">
             <value>
-                <option name="FOREGROUND" value="e0af68" />
+                <option name="FOREGROUND" value="e0af68"/>
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">

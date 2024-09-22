@@ -2,7 +2,7 @@
   "name": "TokyoNight Moon",
   "dark": true,
   "author": "Zeekbyte",
-  "editorScheme": "/themes/TokyoNightMoon.xml",
+  "editorScheme": "/themes/Moon.xml",
   "colors": {
     "bgDark": "#1e2030",
     "bg": "#222436",

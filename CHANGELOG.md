@@ -5,6 +5,8 @@
 ## [Unreleased]
 
 ### Added
+## [0.1.8] 22.09.2024
+- Change the color of `VCS_ANNOTATIONS_COLOR_2`
 
 ## [0.1.7] 15.09.2024
 - Added new themes: `Day` and `Moon`
