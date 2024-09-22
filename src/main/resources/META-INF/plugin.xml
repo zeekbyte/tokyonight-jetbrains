@@ -2,22 +2,21 @@
 
     <id>com.zeekbtye.tokyonight</id>
     <name>Tokyo Night Theme</name>
-    <vendor email="contact@zeekbyte.com" url="https://github.com/zeekbyte">Zeekbyte</vendor>
+    <vendor email="" url="https://github.com/zeekbyte">Zeekbyte</vendor>
 
     <description>
         <![CDATA[
-      Tokyo Night is a theme ported from wildly popular (https://github.com/enkia/tokyo-night-vscode-theme).
-      Currently only Tokyo Night Storm is available, but that could change later.
+      Tokyo Night theme. I forked from the repository https://github.com/alexadhy/tokyonight-jetbrains and continued to maintain it.
     ]]>
     </description>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.zeekbyte.tokyonight-day" path="/themes/TokyoNightDay.theme.json"/>
-        <themeProvider id="com.zeekbyte.tokyonight-storm" path="/themes/TokyoNightStorm.theme.json"/>
-        <themeProvider id="com.zeekbyte.tokyonight-night" path="/themes/TokyoNightNight.theme.json"/>
-        <themeProvider id="com.zeekbyte.tokyonight-moon" path="/themes/TokyoNightMoon.theme.json"/>
+        <themeProvider order="first" id="day" path="/themes/Day.theme.json"/>
+        <themeProvider order="after day" id="storm" path="/themes/Storm.theme.json"/>
+        <themeProvider order="after storm" id="com.zeekbyte.tokyonight-moon" path="/themes/Moon.theme.json"/>
+        <themeProvider order="last"  id="night" path="/themes/Night.theme.json"/>
     </extensions>
 
 </idea-plugin>

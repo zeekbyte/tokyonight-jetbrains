@@ -1,4 +1,4 @@
-<scheme name="TokyoNightMoon" version="142" parent_scheme="Darcula">
+<scheme name="TokyoNightStorm" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="73daca"/>
         <option name="ANNOTATIONS_COLOR" value="c0caf5"/>
@@ -59,7 +59,7 @@
         <option name="SOFT_WRAP_SIGN_COLOR" value="3b4261"/>
         <option name="TEARLINE_COLOR" value="3b4261"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="292e42"/>
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="292e42"/>
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="3d59a1"/>
         <option name="VCS_ANNOTATIONS_COLOR_3" value="292e42"/>
         <option name="VCS_ANNOTATIONS_COLOR_4" value="292e42"/>
         <option name="VCS_ANNOTATIONS_COLOR_5" value="292e42"/>
@@ -90,28 +90,28 @@
         </option>
         <option name="BREADCRUMBS_CURRENT">
             <value>
-                <option name="FOREGROUND" value="89ddff" />
-                <option name="FONT_TYPE" value="2" />
+                <option name="FOREGROUND" value="89ddff"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
             <value>
-                <option name="FOREGROUND" value="737aa2" />
+                <option name="FOREGROUND" value="737aa2"/>
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="7aa2f7" />
+                <option name="FOREGROUND" value="7aa2f7"/>
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
             <value>
-                <option name="FOREGROUND" value="565f89" />
+                <option name="FOREGROUND" value="565f89"/>
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="34212a" />
+                <option name="BACKGROUND" value="34212a"/>
             </value>
         </option>
         <option name="CLASS_NAME_ATTRIBUTES">
@@ -282,13 +282,13 @@
             </value>
         </option>
         <option name="DEBUGGER_INLINED_VALUES">
-            <value />
+            <value/>
         </option>
         <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
-            <value />
+            <value/>
         </option>
         <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
-            <value />
+            <value/>
         </option>
         <option name="DEFAULT_ATTRIBUTE">
             <value>
@@ -532,17 +532,17 @@
         </option>
         <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="2c4353" />
+                <option name="BACKGROUND" value="2c4353"/>
             </value>
         </option>
         <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="2d3d34" />
+                <option name="BACKGROUND" value="2d3d34"/>
             </value>
         </option>
         <option name="EXECUTIONPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="2c4353" />
+                <option name="BACKGROUND" value="2c4353"/>
             </value>
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -773,17 +773,17 @@
         </option>
         <option name="LINE_FULL_COVERAGE">
             <value>
-                <option name="FOREGROUND" value="41a6b5" />
+                <option name="FOREGROUND" value="41a6b5"/>
             </value>
         </option>
         <option name="LINE_NONE_COVERAGE">
             <value>
-                <option name="FOREGROUND" value="c53b53" />
+                <option name="FOREGROUND" value="c53b53"/>
             </value>
         </option>
         <option name="LINE_PARTIAL_COVERAGE">
             <value>
-                <option name="FOREGROUND" value="e0af68" />
+                <option name="FOREGROUND" value="e0af68"/>
             </value>
         </option>
         <option name="LIVE_TEMPLATE_ATTRIBUTES">
@@ -1054,8 +1054,8 @@
             </value>
         </option>
         <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
-        <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-        <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE"/>
+        <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD"/>
         <option name="PROTO_IDENTIFIER">
             <value/>
         </option>
