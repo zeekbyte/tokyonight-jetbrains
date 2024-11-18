@@ -2,9 +2,9 @@
 
 # TokyoNight Theme Changelog
 
-## [Unreleased]
+## [0.1.9] 14.11.2024
+- Fixed for compatibility with IntelliJ IDEA 2024.3
 
-### Added
 ## [0.1.8] 22.09.2024
 - Change the color of `VCS_ANNOTATIONS_COLOR_2`
 
