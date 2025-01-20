@@ -2,6 +2,9 @@
 
 # TokyoNight Theme Changelog
 
+## [0.2.0] 20.01.2025
+- Fixed for compatibility with IntelliJ IDEA 2025.1
+
 ## [0.1.9] 14.11.2024
 - Fixed for compatibility with IntelliJ IDEA 2024.3
 
